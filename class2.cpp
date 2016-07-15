@@ -1,3 +1,7 @@
+// Author Maryam 
+// 15 July 
+// Code to check if you pass or not 
+
 #include<iostream> 
 #include<iomanip> 
 #include<cmath> 
